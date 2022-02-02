@@ -1,0 +1,6 @@
+*.user
+build*/
+makefile/
+.vscode
+.vs
+users*appdatalocal*
